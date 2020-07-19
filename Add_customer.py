@@ -1,5 +1,6 @@
 from tkinter import *
 import sqlite3 as sq
+from tkinter import ttk  
 from tkinter import messagebox
 import re
 def rpmain():
